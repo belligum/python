@@ -19,3 +19,11 @@ print("first element",list[0])
 print("last element",list[0])
 list.append("vollyball")
 print(list)
+
+num1=int(input("enter the num1"))
+if num1>0:
+ print("it is a natural number")
+
+ num1=int(input("enter the num1"))
+if num1%5==0:
+ print("it is divisible by 5")
